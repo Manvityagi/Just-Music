@@ -1,8 +1,19 @@
 body,html{
     width: 100%;
     margin: 0;
+    background-color: black;
 }
 canvas {
     width: 100%;
     background: black;
+}
+
+h1{
+    color: azure;
+    text-align: center;
+}
+
+h2{
+    color: azure;
+    text-align: center;
 }
